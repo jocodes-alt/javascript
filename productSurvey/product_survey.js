@@ -12,7 +12,6 @@ function submitFeedback() {
 
   
  
-  
 
   document.getElementById('userName').innerHTML = username;
   document.getElementById('userAge').innerHTML = age;
